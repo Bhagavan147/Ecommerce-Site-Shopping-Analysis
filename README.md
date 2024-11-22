@@ -2,6 +2,8 @@
 
 This project focuses on analyzing a shopping dataset to uncover patterns and insights related to user behavior and purchase decisions. The analysis includes data preprocessing, univariate and correlation studies, and visual exploration of relationships between key features. Special attention is given to classifying user activities across different page categories, evaluating the impact of SpecialDay values, and understanding the role of session dynamics on revenue generation. Additionally, user segmentation based on VisitorType, OperatingSystems, and Region helps identify behavioral trends and conversion opportunities to optimize e-commerce strategies.
 
+### Shopping Dataset Description
+
 | **Column**                | **Description**                                                                                                                                           |
 |---------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Administrative**         | Number of pages visited by the user in the administrative category (e.g., account, addresses, cart, orders).                                             |
